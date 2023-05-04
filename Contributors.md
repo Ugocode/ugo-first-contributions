@@ -15,6 +15,7 @@
 - [Lalit Chaudhari](https://github.com/Lalit572)
 - [Anthon van Dijk](https://github.com/DyQ3HELOF1)
 - [Gowri Priyanka](https://github.com/GowriPriyankaM)
+- [Ugocode](https://github.com/Ugocode)
 - [Gyaur](https://github.com/Gy4ur)
 - [Billy Phan](https://github.com/bphan002)
 - [koya-tech](https://github.com/koya-tech)
